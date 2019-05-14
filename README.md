@@ -1,6 +1,6 @@
 # SP-10K
 
-This is repo for ACL 2019 paper "SP-10K: A large-scale evaluation set for selectional preference acquisition"
+This is the repo for the ACL 2019 paper "SP-10K: A large-scale evaluation set for selectional preference acquisition"
 
 You can download the annotated data for all five selectional preference relations from :/data.
 
