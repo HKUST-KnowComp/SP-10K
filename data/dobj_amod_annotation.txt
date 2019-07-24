@@ -65,7 +65,7 @@ work	magic	2.75
 call	front	3.0000000000000004
 call	new	5.0
 call	external	3.0000000000000004
-call	available	4.0
+call	available	6.25
 try	new	6.75
 try	different	7.5
 try	complicated	5.0
@@ -196,7 +196,7 @@ include	brown	4.25
 include	continuous	2.25
 pay	full	7.749999999999999
 pay	extra	9.25
-pay	grateful	3.0000000000000004
+pay	grateful	4.5
 pay	content	3.0000000000000004
 meet	new	7.25
 meet	future	5.0
@@ -332,7 +332,7 @@ send	long	4.25
 send	impressive	2.0
 cut	short	6.5
 cut	long	5.0
-cut	thin	5.5
+cut	thin	6.0
 cut	accessible	1.5000000000000002
 expect	good	7.0
 expect	better	7.749999999999999

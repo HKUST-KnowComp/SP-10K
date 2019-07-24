@@ -4,7 +4,7 @@ Question id, score of candidate A, score of candidate B, Prediction, Correct Ans
 7,0,0,NA,A
 8,0,4,B,B
 15,7.75,0,A,A
-16,0,0,NA,A
+16,0,0,NA,B
 19,0,0,NA,A
 20,0,0,NA,B
 35,0,0,NA,A
@@ -45,7 +45,7 @@ Question id, score of candidate A, score of candidate B, Prediction, Correct Ans
 132,0,0,NA,B
 147,0,0,NA,A
 148,0,0,NA,B
-150,0,0,NA,A
+150,0,0,NA,B
 153,5.5,0,A,A
 154,0,0,NA,B
 157,0,0,NA,A
